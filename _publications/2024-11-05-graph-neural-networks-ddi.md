@@ -6,6 +6,5 @@ permalink: /publication/2024-11-05-graph-neural-networks-ddi
 date: 2024-11-05
 venue: 'Bioinformatics (Oxford Academic), 2024'
 paperurl: 'https://example.org/papers/graph-ddi.pdf'
-codeurl: 'https://github.com/zhou-lab-public/graph-ddi'
 citation: 'Patrick Morales, Elena Petrova, et al. (2024). "Graph Neural Networks for Drug-Drug Interaction Prediction." <i>Bioinformatics</i>, 2024.'
 ---
